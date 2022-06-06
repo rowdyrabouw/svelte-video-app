@@ -18,6 +18,7 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "@rowdy.rabouw/video-component": "^1.0.0",
     "sirv-cli": "^2.0.0"
   }
 }
