@@ -5,7 +5,7 @@
 
 <main>
 	<h1>Hello {name}!</h1>
-  <video-component vimeo="705066644"></video-component>
+  <video-component vimeo="817915307?h=3c213cc142"></video-component>
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
 </main>
 
